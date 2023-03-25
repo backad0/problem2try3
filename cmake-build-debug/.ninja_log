@@ -1,0 +1,40 @@
+# ninja log v5
+0	123	7014174106897717	CMakeFiles/problem2try3.dir/RingBuffer.cpp.obj	b1e89bc2117f7a04
+9	3529	7014177148067198	_deps/googletest-build/googletest/CMakeFiles/gtest_main.dir/src/gtest_main.cc.obj	ef6ae0dce601b5b7
+1720	5208	7014196878825099	main.exe	7ebd21798be41f52
+10972	13873	7014177251480283	lib/libgtest.a	1334603064932474
+3	1536	7014189306594478	CMakeFiles/main.dir/main.cc.obj	f4dfacf52040bc12
+18	10970	7014177222346501	_deps/googletest-build/googletest/CMakeFiles/gtest.dir/src/gtest-all.cc.obj	1a72361a975408ad
+13873	13968	7014177252458927	lib/libgtest_main.a	a9cb6356f1eef3f0
+1720	5208	7014196878825099	main[1]_tests.cmake	7ebd21798be41f52
+1720	5208	7014196878825099	C:/Users/alesh/CLionProjects/c++ programing university/problem2try3/cmake-build-debug/main[1]_tests.cmake	7ebd21798be41f52
+2	602	7014197263739397	build.ninja	c9d70d24b8fcab74
+5	1719	7014196844024232	CMakeFiles/main.dir/main.cpp.obj	e7607a5def427f57
+3	1511	7014261586110640	CMakeFiles/main.dir/main.cpp.obj	e7607a5def427f57
+4	1574	7014262274655091	CMakeFiles/main.dir/main.cpp.obj	e7607a5def427f57
+4	1601	7014262915740730	CMakeFiles/main.dir/main.cpp.obj	e7607a5def427f57
+4	1493	7014263219368134	CMakeFiles/main.dir/main.cpp.obj	e7607a5def427f57
+8	1829	7014264399148731	CMakeFiles/main.dir/main.cpp.obj	e7607a5def427f57
+1829	5406	7014264434932034	main.exe	7ebd21798be41f52
+1829	5406	7014264434932034	main[1]_tests.cmake	7ebd21798be41f52
+1829	5406	7014264434932034	C:/Users/alesh/CLionProjects/c++ programing university/problem2try3/cmake-build-debug/main[1]_tests.cmake	7ebd21798be41f52
+4	1647	7014265111479547	CMakeFiles/main.dir/main.cpp.obj	e7607a5def427f57
+1648	5199	7014265146986603	main.exe	7ebd21798be41f52
+1648	5199	7014265146986603	main[1]_tests.cmake	7ebd21798be41f52
+1648	5199	7014265146986603	C:/Users/alesh/CLionProjects/c++ programing university/problem2try3/cmake-build-debug/main[1]_tests.cmake	7ebd21798be41f52
+5	1801	7014265218842017	CMakeFiles/main.dir/main.cpp.obj	e7607a5def427f57
+1802	5275	7014265253585053	main.exe	7ebd21798be41f52
+1802	5275	7014265253585053	main[1]_tests.cmake	7ebd21798be41f52
+1802	5275	7014265253585053	C:/Users/alesh/CLionProjects/c++ programing university/problem2try3/cmake-build-debug/main[1]_tests.cmake	7ebd21798be41f52
+4	1555	7014265830740438	CMakeFiles/main.dir/main.cpp.obj	e7607a5def427f57
+1555	5169	7014265866879641	main.exe	7ebd21798be41f52
+1555	5169	7014265866879641	main[1]_tests.cmake	7ebd21798be41f52
+1555	5169	7014265866879641	C:/Users/alesh/CLionProjects/c++ programing university/problem2try3/cmake-build-debug/main[1]_tests.cmake	7ebd21798be41f52
+15	8856	7014271410520942	CMakeFiles/main.dir/main.cpp.obj	e7607a5def427f57
+8857	21960	7014271541566703	main.exe	7ebd21798be41f52
+8857	21960	7014271541566703	main[1]_tests.cmake	7ebd21798be41f52
+8857	21960	7014271541566703	C:/Users/alesh/CLionProjects/c++ programing university/problem2try3/cmake-build-debug/main[1]_tests.cmake	7ebd21798be41f52
+15	6838	7014273778838347	CMakeFiles/main.dir/main.cpp.obj	e7607a5def427f57
+6840	18964	7014273900096790	main.exe	7ebd21798be41f52
+6840	18964	7014273900096790	main[1]_tests.cmake	7ebd21798be41f52
+6840	18964	7014273900096790	C:/Users/alesh/CLionProjects/c++ programing university/problem2try3/cmake-build-debug/main[1]_tests.cmake	7ebd21798be41f52
