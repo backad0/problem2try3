@@ -34,3 +34,25 @@ TEST(RingBuffer, iteratorTest) {
     EXPECT_EQ(itr.getValue(),5);
     EXPECT_TRUE(itr.finish());
 }
+
+TEST(RingBuffer, iteratorTest1){
+    RingBuffer ringBuffer(5);
+    ringBuffer.add(0);ringBuffer.add(1);ringBuffer.add(2);ringBuffer.add(3);ringBuffer.add(4);
+    RBIterator itr(ringBuffer);
+    itr.start();
+    ringBuffer.takeElem();
+    ringBuffer.add(5);
+    RBIterator itr1(ringBuffer);
+    itr1.start();
+    for (int i=0; i<5; i++){
+
+        std::cout << itr.getValue();
+        itr.next();
+    }
+    std::cout << std::endl;
+    for (int i=0; i<5; i++){
+
+        std::cout << itr1.getValue();
+        itr1.next();
+    }
+}
